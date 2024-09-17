@@ -1,2 +1,2 @@
 # Contact_Us
-This Repository shows a Contact-Us Web Page that been made by using html,css and javaScript.
+Reach out to us through our Contact Us page for any inquiries, support, or feedback. We're here to assist you and ensure your experience is exceptional.
